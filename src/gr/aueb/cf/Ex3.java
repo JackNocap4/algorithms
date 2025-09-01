@@ -1,4 +1,4 @@
-package gr.aueb.cf.ex3;
+package gr.aueb.cf;
 
 /* Δίνονται δύο πίνακες με 3 βαθμολογίες κάθε ένας. Συγκρίνετε τις βαθμολογίες και επιστρέψτε τους πόντους κάθε παίκτη
 • Έστω οι Alice και Bob αξιολογούνται σε 3 κατηγορίες (π.χ., Μουσική, Προγραμματισμός, Γρήγορη Σκέψη). Κάθε κατηγορία
@@ -16,6 +16,7 @@ public class Ex3 {
 
         int[] aliceScores1 = {45, 99, 79} ;
         int[] bobScores1 = {98 , 96, 44} ;
+
 
         int[] result = compareScores(aliceScores1,bobScores1);
         System.out.println("Alice : " + Arrays.toString(aliceScores1));
