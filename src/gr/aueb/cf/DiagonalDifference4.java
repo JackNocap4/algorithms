@@ -11,7 +11,7 @@ package gr.aueb.cf;
 • Διαφορά: |15 - 17| = 2
  */
 
-public class DiagonalDifference {
+public class DiagonalDifference4 {
 
     public static void main(String[] args) {
 
