@@ -10,7 +10,7 @@ package gr.aueb.cf;
 
 import java.util.Arrays;
 
-public class CompareScores4 {
+public class CompareScores3 {
 
     public static void main(String[] args) {
 
