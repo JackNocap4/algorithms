@@ -22,10 +22,6 @@ public class Ex3 {
         System.out.println("Bob : " + Arrays.toString(bobScores1));
         System.out.println("Αποτελέσματα: [Alice]" + result[0] + ", Bob: " + result[1] + "]");
 
-
-
-
-
     }
 
     public static int[] compareScores(int[] aliceScores, int[] bobScores) {
