@@ -23,6 +23,7 @@ public class DiagonalDifference4 {
 
         System.out.println("Η Διαφορά Διαγωνίων είναι: " + diagonalDifference(matrix));
 
+
     }
 
     public static int diagonalDifference(int[][] matrix) {
