@@ -34,6 +34,5 @@ public class AnagramChecker14 {
         System.out.println("Λέξη 1: " + word1);
         System.out.println("Λέξη 2: " + word2);
         System.out.println("Είναι αναγραμματισμοί; " + result);
-        System.out.println("Αναμενόμενο: true");
     }
 }
