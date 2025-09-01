@@ -15,8 +15,12 @@ public class ReversedString12 {
         System.out.println("Reversed: " + reversed);
     }
 
-    public static String reverse(String input) {
-        StringBuilder sb = new StringBuilder(input);
+    public static String reverse(String str) {
+        if (str == null) {
+            return null;
+        }
+
+        StringBuilder sb = new StringBuilder(str);
         return sb.reverse().toString();
     }
 }
