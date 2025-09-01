@@ -7,7 +7,7 @@ package gr.aueb.cf;
 • Έξοδος:
 • 13 (δηλαδή το άθροισμα)
  */
-public class SumOfTwo {
+public class SumOfTwo1 {
 
 
     public static void main(String[] args) {
