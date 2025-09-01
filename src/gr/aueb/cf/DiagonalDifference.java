@@ -1,4 +1,4 @@
-package gr.aueb.cf.ex4;
+package gr.aueb.cf;
 
 /*
 Δίνεται ένας τετραγωνικός πίνακας. Να υπολογιστεί η απόλυτη διαφορά μεταξύ των αθροισμάτων των διαγωνίων του.
@@ -11,7 +11,7 @@ package gr.aueb.cf.ex4;
 • Διαφορά: |15 - 17| = 2
  */
 
-public class Ex4 {
+public class DiagonalDifference {
 
     public static void main(String[] args) {
 
