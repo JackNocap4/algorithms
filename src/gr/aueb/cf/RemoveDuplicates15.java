@@ -1,6 +1,6 @@
 package gr.aueb.cf;
 
-public class RemoveDuplicates {
+public class RemoveDuplicates15 {
 
     public static void main(String[] args) {
         String str1 = "aabbcc";
@@ -14,7 +14,6 @@ public class RemoveDuplicates {
         System.out.println("Έξοδος: \"" + removeDuplicates(str2) + "\"");
     }
 
-
     public static String removeDuplicates(String str) {
         if (str == null) {
             return null;
@@ -24,7 +23,6 @@ public class RemoveDuplicates {
 
         for (int i = 0; i < sb.length(); i++) {
             char currentChar = sb.charAt(i);
-            // Ελέγχουμε αν ο χαρακτήρας δεν υπάρχει ήδη στο result
             if (sb.indexOf(String.valueOf(currentChar)) == -1) {
                 sb.append(currentChar);
             }
