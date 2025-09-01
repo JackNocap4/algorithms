@@ -18,6 +18,7 @@ public class Ex2 {
 
         int result = arraySum(numbers);
 
+
         System.out.println("Άθροισμα: " + result); // περιμένουμε 20
     }
 
