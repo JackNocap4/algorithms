@@ -1,4 +1,4 @@
-package gr.aueb.cf.ex6;
+package gr.aueb.cf;
 
 import java.util.Arrays;
 
@@ -11,7 +11,7 @@ import java.util.Arrays;
 0.333333 // Αρνητικά (2/6)
 0.333333 // Μηδενικά (2/6)
  */
-public class Ex6 {
+public class FreqCalculation6 {
 
     public static void main(String[] args) {
 
