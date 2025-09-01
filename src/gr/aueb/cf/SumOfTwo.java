@@ -7,7 +7,7 @@ package gr.aueb.cf;
 • Έξοδος:
 • 13 (δηλαδή το άθροισμα)
  */
-public class Ex1 {
+public class SumOfTwo {
 
 
     public static void main(String[] args) {
@@ -16,7 +16,6 @@ public class Ex1 {
         int num2 = 7;
 
         int result = sum(num1, num2);
-
 
         System.out.println("Το άθροισμα είναι: " + result);
 
