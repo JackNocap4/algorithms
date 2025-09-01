@@ -8,7 +8,7 @@ import java.util.Arrays;/*
 • Αναμενόμενη Έξοδος:
 • 20 (δηλαδή: 3 + 7 + 1 + 9)
  */
-public class ArraySum {
+public class ArraySum2 {
 
     public static void main(String[] args) {
 
