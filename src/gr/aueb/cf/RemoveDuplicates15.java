@@ -1,5 +1,12 @@
 package gr.aueb.cf;
 
+/* Γράψτε μια μέθοδο που αφαιρεί τους διπλότυπους χαρακτήρες από ένα String και επιστρέφει το νέο String χωρίς
+επαναλήψεις
+• Παράδειγμα
+• Είσοδος: "aabbcc", Έξοδος: "abc"
+• Είσοδος: "Hello World!", Έξοδος: "Helo
+Wrd!" (Το W διατηρείται, case-sensitive)
+ */
 public class RemoveDuplicates15 {
 
     public static void main(String[] args) {
