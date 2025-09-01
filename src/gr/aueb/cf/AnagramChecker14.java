@@ -1,5 +1,10 @@
 package gr.aueb.cf;
 
+/*
+Γράψτε μια μέθοδο που ελέγχει αν δύο String είναι αναγραμματισμός το ένα του άλλου
+• Δηλαδή περιέχουν τους ίδιους χαρακτήρες σε διαφορετική σειρά
+• Παράδειγμα: 'listen', 'silent
+ */
 import java.util.Arrays;
 
 public class AnagramChecker14 {
