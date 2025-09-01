@@ -1,4 +1,4 @@
-package gr.aueb.cf.ex2;
+package gr.aueb.cf;
 
 import java.util.Arrays;/*
 Δίνεται ένας πίνακας ακεραίων.
