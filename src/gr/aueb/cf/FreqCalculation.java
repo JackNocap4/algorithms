@@ -1,4 +1,4 @@
-package gr.aueb.cf.ex5;
+package gr.aueb.cf;
 
 /*
 Δημιουργήστε μια σκάλα με # και κενά ( ), όπου: Το ύψος της σκάλας είναι ένας ακέραιος n.
@@ -10,7 +10,7 @@ package gr.aueb.cf.ex5;
 ###
 ####
  */
-public class Ex5 {
+public class FreqCalculation {
 
     public static void main(String[] args) {
         System.out.println("=== Σκάλα μεγέθους 4 ===");
