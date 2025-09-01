@@ -10,7 +10,7 @@ package gr.aueb.cf;
 ###
 ####
  */
-public class FreqCalculation {
+public class PrintStaircase5 {
 
     public static void main(String[] args) {
         System.out.println("=== Σκάλα μεγέθους 4 ===");
